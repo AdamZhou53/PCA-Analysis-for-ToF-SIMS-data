@@ -1,14 +1,9 @@
 # PCA-Analysis-for-ToF-SIMS-data
 It can generate data analysis reports automatically to explain chemical differences among samples, allowing less experienced researchers to easily understand tricky PCA results. 
----
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
----
+
 # SIMS-PCA
 
-Created by Peishi Jiang, modified by Qian Zhao and Cole Welch
+Created by Yadong Zhou ,Endong Jia, Peishi Jiang and Zihua Zhu, modified by Qian Zhao and Cole Welch 
 
 SIMS-PCA is a Python-based library that (1) performs PCA analysis on SIMS experiment data and (2) generates a Word-based report.
 
